@@ -1,2 +1,6 @@
 perfectenv
 ==========
+
+VIM
+
+BASHRC
