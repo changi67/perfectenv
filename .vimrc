@@ -12,6 +12,8 @@ if has("autocmd")
    filetype plugin indent on
 endif
 
+execute pathogen#infect()
+
 :set syn=syntax-type
 :set paste
 :set ignorecase
@@ -37,3 +39,6 @@ execute 'source ' . $HOME . '/.vim/specific/php-doc.vim'
 
 map <C-p> <Esc>:call PhpDocSingle()<CR>
 imap <C-p> <Esc>:call PhpDocSingle()<CR>j
+
+let g:xml_syntax_folding=1
+au FileType xml setlocal foldmethod=syntax
