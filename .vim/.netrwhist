@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/bilger/PhpstormProjects/cmdb/extensions/coe-storage-farm'
-let g:netrw_dirhist_2='/home/bilger/PhpstormProjects/cmdb/extensions/coe-vcs-mgmt'
-let g:netrw_dirhist_3='/home/bilger/PhpstormProjects/cmdb/extensions/hierarchical-location'
-let g:netrw_dirhist_4='/home/bilger/PhpstormProjects/cmdb/extensions/coe-server-module'
-let g:netrw_dirhist_5='/home/bilger/PhpstormProjects/cmdb/datamodels/2.x/itop-virtualization-mgmt'
-let g:netrw_dirhist_6='/home/bilger/PhpstormProjects/cmdb/extensions/coe-monitoring'
-let g:netrw_dirhist_7='/home/bilger/PhpstormProjects/cmdb/extensions/coe-storage-farm'
-let g:netrw_dirhist_8='/home/bilger/perfectenv/.vim/bundle/nerdtree/autoload'
-let g:netrw_dirhist_9='/home/bilger/PhpstormProjects/cmdb/extensions/coe-custom'
+let g:netrw_dirhist_cnt =0
